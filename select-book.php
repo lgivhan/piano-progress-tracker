@@ -8,7 +8,8 @@
       body {
 	font-family: Arial, sans-serif;
 	max-width: 600px;
-	padding: 20px;
+	margin: 50px auto;
+	text-align: center;
 	background-color: #f4f4f4;
       }
       h1 {
